@@ -4,6 +4,7 @@ import ME from "../../assets/dark_prof.png";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
+import content from "./content.json";
 
 const About = () => {
   return (
@@ -22,19 +23,19 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>{content.EN.experience}</small>
             </article>
 
             <article className="about__card">
               <FiUsers className="about__icon" />
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <h5>Academic</h5>
+              <small>{content.EN.academic}</small>
             </article>
 
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
-              <h5>Projects</h5>
-              <small>80+ Complited Projects</small>
+              <h5>Brands</h5>
+              <small>{content.EN.brands}</small>
             </article>
           </div>
 

@@ -1,0 +1,105 @@
+{
+  "EN": {
+    "categories": [
+      {
+        "id": 0,
+        "title": "Software engeener",
+        "skills": [
+          {
+            "id": 4,
+            "skill": "C/C++",
+            "level": "Intermediate"
+          },
+          {
+            "id": 5,
+            "skill": "Python",
+            "level": "Intermediate"
+          },
+          {
+            "id": 6,
+            "skill": "Java Script",
+            "level": "basic"
+          },
+          {
+            "id": 7,
+            "skill": "Golang",
+            "level": "basic"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Embedded Developer",
+        "skills": [
+          {
+            "id": 8,
+            "skill": "C/C++",
+            "level": "Intermediate"
+          },
+          {
+            "id": 9,
+            "skill": "Make/CMake",
+            "level": "Intermediate"
+          },
+          {
+            "id": 10,
+            "skill": "Debugger GDB",
+            "level": "Intermediate"
+          },
+          {
+            "id": 11,
+            "skill": "STM32CubeMX",
+            "level": "Intermediate"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "DevOps",
+        "skills": [
+          {
+            "id": 12,
+            "skill": "Docker/docker-compose",
+            "level": "Intermediate"
+          },
+          {
+            "id": 13,
+            "skill": "AWS",
+            "level": "Basic"
+          },
+          {
+            "id": 14,
+            "skill": "Ansible",
+            "level": "Intermediate"
+          },
+          {
+            "id": 15,
+            "skill": "Bash",
+            "level": "Intermediate"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Data Science",
+        "skills": [
+          {
+            "id": 16,
+            "skill": "scikit-learn",
+            "level": "Intermediate"
+          },
+          {
+            "id": 17,
+            "skill": "PySpark",
+            "level": "Intermediate"
+          },
+          {
+            "id": 18,
+            "skill": "OpenCV",
+            "level": "Intermediate"
+          }
+        ]
+      }
+    ]
+  }
+}
